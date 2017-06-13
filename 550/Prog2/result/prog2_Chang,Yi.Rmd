@@ -1,0 +1,124 @@
+---
+title: "ANLY550 Programming Assignment 2"
+author: "Group: Chang Sun, Yi Li"
+output:
+  pdf_document: default
+---
+### Analytical Method
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The product of two $n*n$ matrices $A$ and $B$ is a $n*n$ matrix $C$. We know that $c_{ij}=\sum_{k=1}^n a_{ik} b_{kj}$ for $i, j = 1,2,...,n$, and there are $n$ multiplications and $n-1$ additions. As we need to compute $n^2$ entries of $C$, the conventional matrix application of multiplying two $n*n$ matrices requires $n^3$ multiplications and $n^3-n^2$ additions. So the total arithmetic operation count is $2n^3-n^2$. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Strassen's algorithm uses 7 multiplications and 18 additions/substractions per recurrence for multipliying 2 x 2 matrices whose elements are $\frac{n}{2}*\frac{n}{2}$ blocks. So the total operation count per recurrence is $T(n) = 7T(\frac{n}{2})+18(\frac{n}{2})^2 = 7(2(\frac{n}{2})^3-(\frac{n}{2})^2)+18(\frac{n}{2})^2=(\frac{7}{4})n^3+(\frac{11}{4})n^2$. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The cross-over point $n_0$ is the point that we can stop the Strassen's algorithm and switch to conventional matrix multiplication below that point. To find the cross-over point, set $2n^3-n^2$ equals to $(\frac{7}{4})n^3+(\frac{11}{4})n^2$. Solve this equation and we have $n=15$. Therefore, the cross-over point $n_0$ is 15. When $n = 16$, the Strassen's algorithm starts to perform better than conventional matrix multiplication. 
+
+###Experimental Method
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The code is shown in strassen.py. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We first define a function called _ikj_ _ _matrix_ _ _product_ to do the conventional matrix multiplication. The _add_ and _subtract_ functions are used to calculate addition and substraction. The Strassen's algorithm is realized in the _StrassenR_ function. We initialize each new sub-matrices with the new size $\frac{n}{2}$ and divide the matrices into 4 sub-matrices, named $a_{11},a_{12},a_{21},a_{22}$ and $b_{11},b_{12},b_{21},b_{22}$. So $p_1$ to $p_7$ can be calculated, and we can get the resulting matrix, which is matrix $C$ representing $A$ times $B$.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When the dimension $n$ is a power of 2, we can apply Strassen's algorithm directly. To handle more general dimensions like odd numbers, we fill the matrix with 0s until the dimension of the matrix becomes the closest power of 2 that is greater than $n$. For example, if $A$ is a 300 x 300 matrix whose dimension is between $2^8=256$ and $2^9=512$. We add zeros to $A$ and get a new 512 x 512 matrix $A$ whose first 300 x 300 elements are the same as the original $A$, while other elements equal to 0.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In order to find the cross-over point, we set a range of numbers as the cross-over points and apply these numbers one at a time into the algorithm. We combine the conventional matrix multiplication and Strassen's agorithm together in the _StrassenR_ function to get a modified version of Strassen's algorithm: Once the dimension belows the set cross-over point, it runs a conventional matrix multiplication. Otherwise, it recursively calls Strassen's algorithm to do the multiplication. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We test dimensions (n) of 32, 64, 105, 128, 207, 256, and 512 on matrices $A$ and $B$ whose elements are integers randomly selected in the range $[-2, 2]$. (We also tried to use randomly selected float numbers and numbers around 100, and their runtimes are similar, so the types of matrices do not matters a lot in this case.) With each dimension, we set the cross-over point to numbers from 1 to $n$. Because there is no need to check the cross-over points that are larger than the dimension of the matrix. The results of the cross-over points with runtimes are shown in the graphs below. The blue lines are the runtime for Strassen's algorithm. The red dash lines represent the conventional matrix multiplication, which is the runtime for using only the conventional approach.
+
+```{r, echo=FALSE}
+# import files
+df32=read.table("d32.txt", sep=",")
+names(df32) = c("Time", "CrossOverPt")
+#df57=read.table("d57.txt", sep=",")
+#names(df57) = c("CrossOverPt", "Time")
+df64=read.table("d64.txt", sep=",")
+names(df64) = c("Time", "CrossOverPt")
+df105=read.table("d105.txt", sep=",")
+names(df105) = c("CrossOverPt", "Time")
+df128=read.table("d128.txt", sep=",")
+names(df128) = c("Time", "CrossOverPt")
+df207=read.table("d207.txt", sep=",")
+names(df207) = c("CrossOverPt", "Time")
+df256=read.table("d256.txt", sep=",")
+names(df256) = c("Time", "CrossOverPt")
+#df512=read.table("d512.txt", sep=",")  #34.96757507324219
+#df512=df512[1:240,]
+df512=read.table("d512_alter.txt", sep=",") #37.04466199874878
+names(df512) = c("CrossOverPt", "Time")  
+
+d32.min = which.min(df32$Time)
+#d57.min = which.min(df57$Time)
+d64.min = which.min(df64$Time)
+d105.min = which.min(df105$Time)
+d128.min = which.min(df128$Time)
+d207.min = which.min(df207$Time)
+d256.min = which.min(df256$Time)
+d512.min = which.min(df512$Time)
+
+par(mfrow=c(1,2))
+
+# n = 32
+plot(Time~CrossOverPt, data=df32, main="n = 32", xlab="Cross Over Point", ylab="Time(seconds)", type="l", col="blue")
+abline(h=0.008044004440307617, col="red", lty=3)
+legend("topright", c("Strassen", "Conventional"), col = c("blue", "red"), lty=c('solid', 'dotted'), cex = 0.7, lwd=1.5, bty="n")
+
+# n = 64
+plot(Time~CrossOverPt, data=df64, main="n = 64", xlab="Cross Over Point", ylab="Time(seconds)", type="l", col="blue")
+abline(h=0.06761312484741211, col="red", lty=3)
+legend("topright", c("Strassen", "Conventional"), col = c("blue", "red"), cex = 0.7, lty=c('solid', 'dotted'), lwd=1.5, bty="n")
+
+# n = 128
+plot(Time~CrossOverPt, data=df128, main="n = 128", xlab="Cross Over Point", ylab="Time(seconds)", type="l", col="blue")
+abline(h=0.6025569438934326, col="red", lty=3)
+legend("topright", c("Strassen", "Conventional"), col = c("blue", "red"), cex = 0.7, lty=c('solid', 'dotted'), lwd=1.5, bty="n")
+
+# n = 256
+plot(Time~CrossOverPt, data=df256, main="n = 256", xlab="Cross Over Point", ylab="Time(seconds)", type="l", col="blue")
+abline(h=4.357172012329102, col="red", lty=3)
+legend("topright", c("Strassen", "Conventional"), col = c("blue", "red"), cex = 0.7, lty=c('solid', 'dotted'), lwd=1.5, bty="n")
+
+# n = 105
+plot(Time~CrossOverPt, data=df105, main="n = 105", xlab="Cross Over Point", ylab="Time(seconds)", type="l", col="blue")
+abline(h=0.28261399269104004, col="red", lty=3)
+legend("topright", c("Strassen", "Conventional"), col = c("blue", "red"), cex = 0.7, lty=c('solid', 'dotted'), lwd=1.5, bty="n")
+
+# n = 207
+plot(Time~CrossOverPt, data=df207, main="n = 207", xlab="Cross Over Point", ylab="Time(seconds)", ylim=c(2,11), type="l", col="blue")
+abline(h=2.3017609119415283, col="red", lty=3)
+legend("topright", c("Strassen", "Conventional"), col = c("blue", "red"), cex = 0.7, lty=c('solid', 'dotted'), lwd=1.5, bty="n")
+
+par(mfrow=c(1,1))
+# n = 512
+plot(Time~CrossOverPt, data=df512, main="n = 512", xlab="Cross Over Point", ylab="Time(seconds)", type="l", col="blue")
+abline(h=34.96757507324219, col="red", lty=3)
+legend("topright", c("Strassen", "Conventional"), col = c("blue", "red"), cex = 0.7, lty=c('solid', 'dotted'), lwd=1.5, bty="n")
+
+```
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When the cross-over point is set too low, the algorithm does more reccursions of Strassen's algorithm than the ideal situation, thus it causes longer runtime. On the other hand, when the cross-over point is set too high, the algorithm does not maximally utilize the Strassen's algorithm, so it also results longer runtime. Therefore, the minimal runtime corresponds to the cross-over point we are looking for. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We can know from the graphs that as the set cross-over point becomes larger, the runtime initially decreases sharply. For large dimensions like the graphs $n=207$ and $n=512$, we can see there is a stepped pattern for the cross-over points in the range like $[8, 16), [16, 32), [32, 64), [64, 128), [128, 256)$ and so on. The cut off points for the steps are the power of 2. In each step, the runtimes roughly stay the same. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Such a stepped pattern is resulted from the method we treat the matrices. As we mentioned above, when the dimension is not a power of two, we fill 0s to the matrix until the dimension of the matrix becomes the closest power of 2. So the starting matrix's dimension is $2^k$ for some constant $k$. According to the recursion, the new matrix's dimension becomes $2^{k-1}$, and so on and so forth. So actually, the valid cross-over point is always some power of 2. When the set cross-over point is not a power of 2, it actually works like a set cross-over point which is a power of 2. Consequently, for all cross-over points $n_0$ in the range $[2^m, 2^{m+1})$, it has similar runtimes with runtimes of $2^m$. So we can take $2^m$ as the cross-over point $n_0$. This also explains why the cut off points occur at the power of two. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Below is the table showing the experimental results. 
+$$
+\begin{array}{c|c|c|c}
+Dimension(n) & Cross Over Point & Interval & n_0 \\ \hline
+32 & 32 & [32, 64) & 32 \\ \hline
+64 & 54 & [32, 64) & 32 \\ \hline
+105 & 65 & [64, 128) & 64 \\ \hline
+128 & 82 &[64, 128) & 64 \\ \hline
+207 & 72 & [64, 128) & 64 \\ \hline
+256 & 124 & [64, 128) & 64 \\ \hline
+512 & 121 & [64, 128) & 64 \\ \hline
+\end{array}
+$$
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The _CrossOverPoint_ column is the cross-over points with the minimal runtime from testing. The _Interval_ column is the range that contains the minimal cross-over points. $n_0$ is the cross-over point $n_0$. For example, when $n=128$, the minimal runtime in the experiment is associated with the cross-over point of 82, and 82 is in the range $[64, 128)$. According to our above analysis, the cross-over point $n_0$ for $n=128$ is 64. For $n <= 64$, setting the cross-over point greater than the dimension is meaningless and there is no further room for the runtime to decrease. Therefore, we conclude that the experimental cross-over point $n_0=64$. 
+
+###Comparisons
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The experimental cross-over point is larger than the analytical one. The experimental cross-over point depends on quite a lot of factors, such as the implementation methods, the hardware, memory access speed, cache considerations, hyperthreading considerations. Additionally, we assume the cost of any single arithmetic operation (adding, subtracting, multiplying, or dividing two real numbers) to be 1. However, in reality the cost may be differnt. Different arithmetic operations can take on various weights. There may exist other cost that is assumed to be 0 in analytical approach, but may actually be not 0 when implementing the program.
+
+### Other findings
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When we compare the runtimes of using the Strassen's algorithm with only using conventional matrix multiplication, we find the plots with dimensions 105 and 207 are very different, the runtimes for conventional matrix multiplication are always smaller than the Strassen's algorithm. Here is the explanation: Take $n=207$ as an example, when using the Strassen's algorithm, we enrich the matrix to $n=256$ first, so we are actually multiplying two 256 x 256 matrices. However, for conventional method, we only times two 207 x 207 matrices. Therefore, when $n=207$, the Strassen's algorithm always take longer time to run. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We also find that when $n$ becomes larger, the Strassen’s algorithm tends to have shorter runtimes than the conventional matrix multiplication. This can be proven from the graphs. When $n$ is small like $n = 32$, the red line representing the conventional method is below the blue line (Strassen’s). When $n$ becomes larger, there are intersections between two lines. Eventually, when $n$ is large like $n = 512$, the blue line is below the red line for most points, which means the Strassen’s algorithm runs faster than the conventional method. In general, for large $n$, the Strassen’s algorithm tends to perform better than the conventional matrix multiplication.
+

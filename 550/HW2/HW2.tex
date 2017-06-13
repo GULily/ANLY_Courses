@@ -1,0 +1,216 @@
+\documentclass[11pt]{article}
+% \pagestyle{empty}
+
+\setlength{\oddsidemargin}{-0.25 in}
+\setlength{\evensidemargin}{-0.25 in}
+\setlength{\topmargin}{-0.9 in}
+\setlength{\textwidth}{7.0 in}
+\setlength{\textheight}{9.0 in}
+\setlength{\headsep}{0.75 in}
+\setlength{\parindent}{0.3 in}
+\setlength{\parskip}{0.1 in}
+\usepackage{epsf}
+% \usepackage{times}
+% \usepackage{mathptm}
+
+\def\O{\mathop{\smash{O}}\nolimits}
+\def\o{\mathop{\smash{o}}\nolimits}
+\newcommand{\e}{{\rm e}}
+\newcommand{\R}{{\bf R}}
+\newcommand{\Z}{{\bf Z}}
+
+\usepackage{mathtools}
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+
+\begin{document}
+
+\begin{center}
+\large
+\bf
+ANLY-550 	Homework 2 \\[1pc]
+\rm
+\normalsize
+Yi Li, Feb. 14 \\[1.5pc]  
+\end{center}
+
+\normalsize
+\noindent
+1. Prove that if a graph G is undirected, the any DFS of G will never encounter a cross edge.
+
+\noindent
+Proof: Assume there is a cross edge $(u, v)$, then $u$ is the ancestor of $v$. As the graph G is undirected, $v$ is also the ancestor of $u$, so $(u, v)$ is a back edge (in the DFS tree). So, there is no cross edge in undirected graph.
+
+
+\noindent
+2.1 Give an $O(n \log k)$ algorithm to merge k sorted lists with n total elements into one sorted list. 
+
+\noindent
+Solution: 
+
+\noindent
+Step1: Build a min-heap with the smallest element from each list. (So initially, there are $k$ elements in this heap.)
+
+\noindent
+Step2: Delete-min on the heap to find and delete the smallest element.
+
+\noindent
+Step3: Insert the next element from the list of the deleted one to the heap. 
+
+\noindent
+Repeat step2 and step3 until the heap is empty.
+
+\noindent
+Proof: We get the smallest element from all lists after the first run. Suppose we get m sorted elements after the $m$th run ($m<n$). Step3 makes sure that the new inserted element is no smaller than the deleted elements. After the $(m+1)$th run, we get the smallest element $e$ from the remaining ($n-m$) elements from the step2, and $e$ is no smaller than the $m$ sorted elements, so we get ($m+1$) sorted elements. 
+
+\noindent
+Analysis: It takes $O(k)$ to build the heap; for every element, it takes $O(\log k)$ to delete-min and $O(\log k)$ to insert the next element. In total it takes $O(k + n \log k) = O(n \log k)$.
+
+
+\noindent 
+2.2 Give an $O(n \log k)$ algorithm for sorting a list of n numbers that is k-close to sorted.
+
+\noindent
+Solution: 
+
+\noindent
+Step1: Build a min-heap with first k elements. (So initially, there are $k$ elements in this heap.) 
+
+\noindent
+Step2: Delete-min on the heap to find and delete the smallest element.
+
+\noindent
+Step3: Insert the next element from the remaining elements in the list to the heap.
+
+\noindent
+Repeat step2 and step3 until the heap is empty.
+
+\noindent
+Proof: As each number in the list is less than $k$ positions from its actual place in the sorted order. It is true that we get the smallest element after the first run. Suppose we get $m$ sorted elements after the $m$th run ($m<n$). Step3 makes sure that all the $k$ elements in the heap are $k-close$ to sorted, so the new inserted element is no smaller than the deleted elements. So after the ($m+1$)th run, we get the smallest element $e$ from the remaining elements, and $e$ is no smaller than the $m$ sorted elements, so we get ($m+1$) sorted elements. 
+
+\noindent
+Analysis: It takes $O(k)$ to build the heap; for every element, it takes $O(\log k)$ to delete-min and $O(\log k)$ to insert the next element. In total it takes $O(k + n \log k) = O(n \log k)$.
+
+
+\noindent
+3. Design an efficient algorithm to find the longest path in a directed acyclic graph. (including negative weighted edges)
+
+\noindent
+We can negate the edge weights and run the DAG shortest-path algorithm. 
+
+\noindent
+Step1: Negate all the edge weights.
+
+\noindent
+Step2: Topologically sort the DAG.
+
+\noindent
+Step3: Assign a zero distance to some source node $s$ ($dist(s)=0$), and an infinite distance to other vertices ($dist(v)=\infty$).
+
+\noindent
+Step4: For each vertex $v$ in sorted order, for each outgoing edge $(v, u)$, if $dist(v) + weight(v, u) < dist(u)$, set $dist(u)=dist(v) + weight(v, u)$ and the predecessor of $u$ to $v$.
+
+\noindent
+Step5: Repeat step3 and step4 to take each vertex in G as the source node to find the longest path in the DAG.
+
+\noindent
+Correctness: Step2 makes sure that vertices with no incoming edges are first and vertices with only incoming edges are last. Step3 and step4 follow the Bellman-Ford's algorithm to find the single-source shortest-path. As we negate all the edge weights in step1, we actually find the single-source longest-path. To find the longest path in the DAG, step5 repeat $|V|$ times to take each vertex as the source node, and finally output the largest single-source longest-path.
+
+\noindent
+Analysis: The topological sort takes $O(|V|+|E|)$. Step3 takes $O(|V|)$. Step4 takes $O(|V|*|E|)$. Step5 repeats step3 and step4 for $|V|$ times. So totally, it takes $O(|V|^2 + |V|^2|E|)$ time.
+
+
+\noindent
+4. Traverse all the streets of Sunnydale in such a way that she would walk on each side of each block exactly one.
+
+\noindent
+The layout of Sunnydale should satisfy that each street has two sides (to walk on each side once, one needs to walk on the same street twice: forward and backward). We consider the layout as an undirected graph, that each street is an edge, and each crossroad or an end of a street is a vertex. To walk through each edge of the graph exactly twice, we can use a variant DFS as following:
+
+\noindent
+Step1: Start from a source node $s$, walk through one of its edges to another node $v$, and mark this edge as visited. 
+
+\noindent
+Step2: If $v$ has new edges, choose one edge to walk through, and mark this edge as visited. 
+
+\noindent
+Step3: If $v$ does not have new edges, go back to the previous nodes one by one, until find a node $u$ that has at least one new edge has not been visited, and walk through the new edge, also mark this edge as visited. (If one cannot not find such a node $u$, one must follow the previous nodes and return back to the source node $s$, and the task ends.)
+
+\noindent
+Repeat step2 and step3 until all edges have been visited and return to $s$.
+
+\noindent
+Proof: Suppose there is an edge $(u, v)$ has not been visited. As the DFS algorithm makes sure every node has been visited, so if the node $u$ is visited, $(u, v)$ must can be visited either by step2 or by step3. As one always needs to go back to the previous nodes, each edge is been visited only twice. 
+
+
+\noindent
+5. Design an efficient algorithm to find the paths from a source to every other node such that each path has the smallest possible bottleneck.
+
+\noindent
+We can change the Dijkstra's algorithm as following:
+
+\noindent
+Set an array $dist[1..n]$ that $dist[u]$ stores the length of the bottleneck edge on a bottleneck path from $s$ to $u$.
+
+\noindent
+Set an array $prev[1..n]$ that $prev[u]$ stores the predecessor of $u$ on the bottleneck path from $s$ to $u$.
+
+\noindent
+Initialization: For the source $s$, set $dist(s)=0$. For all other vertices, set $dist(v)=\infty, prev[v]=Null$.
+
+\noindent
+For each $(u, v)$ in $E$: If $max(dist[u], length(u,v)) < dist[v]$,  set $dist[v]= max(dist[u], length(u,v)), prev[v]=u$.
+
+\noindent
+Correctness: For every vertex $v$, if $u$ is the predecessor of $v$ in a bottleneck path from $s$ to $v$, the bottleneck edge from $s$ to $v$ is either the bottleneck edge on the path from $s$ to $u$ or the edge $(u, v)$, whichever is larger.
+
+\noindent
+Analysis: As we just change what stores in the $dist[v]$ from the Dijkstra's algorithm, the time is as the same as $O((n+m)logn)$ in the Dijkstra's algorithm.
+
+
+\noindent
+6. Consider the shortest paths problem in the special case where all edge costs are non-negative integers. Describe a modification of Dijkstra's algorithm that works in time $O(|E|+M|V|)$, where $M$ is the maximum cost of any edge in the graph.
+
+\noindent
+The maximum cost of any shortest path from the source $s$ is at most $M(|V|-1)$.
+
+\noindent
+Set $M(|V|-1)+1$ doubly-linked lists, each doubly-linked list $L[i]$ keeps track of all vertices that are currently at distance $i$ from the source $s$. $L[0] = {s}$.
+
+\noindent
+Set an array $dist[1..n]$ that $dist[u]$ stores the shortest distance (so far) from the source $s$ to vertex $u$. 
+
+\noindent
+Initialization: For the source $s$, set $dist(s)=0$. For all other vertices, set $dist(v)=\infty$.
+
+\noindent
+Loop: For each $L[i]$ (start from $L[0]$ to $L[M(|V|-1)]$), for each edge $(u, v)$, if $dist(v) > dist(u) + length(u, v)$, set $dist(v) = dist(u) + length(u, v)$, and push $v$ to $L[dist[v]]$.
+
+\noindent
+Correctness: This algorithm is changed from the Dijkstra's algorithm. It uses doubly-linked lists instead of a heap to store the data.
+
+\noindent
+Analysis: Each edge and vertex of the graph will be visited only once, and the outer loop runs in time $O(M|V|)$. So totally, the running time is $O(|E|+M|V|)$.
+
+
+\noindent
+7. Design an efficient algorithm to detect if a risk-free currency exchange exists.
+
+\noindent
+We can consider this problem as a directed graph G(V, E) that each currency $c_i$ is a vertex and each exchange rate $r_{i,j}$ is an edge. We can set the weight of each edge as $(- \lg r_{i,j})$. And then use the Bellman-Ford's algorithm to detect whether the graph exists a negative cycle.
+
+\noindent
+Proof: 
+As 
+$$r_{i_1, i_2} * r_{i_2, i_3}*\cdots*r_{i_k-1,i_k} * r_{i_k,i_1} > 1$$
+can be transferred to
+$$(-\lg r_{i_1, i_2}) + ( -\lg r_{i_2, i_3}) + \cdots + (-\lg r_{i_{k-1},i_k}) + (-\lg r_{i_k,i_1}) < 0,$$ we can use the Bellman-Ford's algorithm to detect negative cycles.
+
+\noindent
+Analysis: It takes the same time as the Bellman-Ford algorithm, that is, $O(|V|*|E|)$.
+
+
+
+
+
+\end{document}
