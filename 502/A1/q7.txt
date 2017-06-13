@@ -1,0 +1,2 @@
+s3: s3://course502/q6-malfunctions.txt
+http: http://s3.us-east-2.amazonaws.com/course502/q6-malfunctions.txt

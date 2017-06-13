@@ -1,0 +1,5 @@
+# streaming to a t2.large
+date: 2017-01-19T17:49:24+0000  
+mode: streaming
+streaming: 68                   #real: 1m8.456s
+malfunctions: 190

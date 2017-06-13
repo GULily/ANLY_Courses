@@ -1,0 +1,10 @@
+/images/logo.png 280137		
+/w/load.php?debug=false&lang=en&modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&only=styles&skin=monobook&* 398524						
+/w/load.php?debug=false&lang=en&modules=jquery.checkboxShiftClick%2Ccookie%2CmakeCollapsible%2CmessageBox%2CmwPrototypes%2Cplaceholder%7Cmediawiki.language%2Cuser%2Cutil%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.page.ready&skin=monobook&version=20120730T153329Z&* 282350		
+/w/skins/common/images/poweredby_mediawiki_88x31.png 267874		
+/w/skins/common/images/88x31xpoweredby_mediawiki_88x31.png.pagespeed.ic.W5uvplkR0c.png 482905	
+/w/skins/monobook/headbg.jpg,q2012-04-25T21,3A20,3A00Z.pagespeed.ce.eHZtoH3daF.jpg 316815	
+/favicon.ico 779617	
+/images/xlogo.png.pagespeed.ic.5zDE2yLhuw.png 392459	
+/w/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki&only=scripts&skin=monobook&version=20120425T212031Z 431057	
+/w/load.php?debug=false&lang=en&modules=jquery.client%7Cmediawiki.page.startup&skin=monobook&version=20120620T151722Z&* 344519				

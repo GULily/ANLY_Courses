@@ -1,0 +1,6 @@
+ 
+Job #1: Run q5_run.py with q5_mapper.py and q5_reducer.py to put all results into q5_results1.txt (which is large 55.84M).
+
+Job #2: Change q5_reducer.py to filter the url with large hits. For example, if the times of hits is above 100,000, output the url and the sum of hits. Then we can get a small list. I tried three times to get the top 10 hits. The results are in the q5_results2.txt.
+
+Bar Chart: write codes in grapher.py to output the bar chart.

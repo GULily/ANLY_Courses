@@ -1,0 +1,5 @@
+# streaming to a t2.micro
+date: 2017-01-19T17:19:18+0000   
+mode: streaming
+streaming: 228                   #real: 3m47.829s
+malfunctions: 190

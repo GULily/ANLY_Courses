@@ -1,0 +1,992 @@
+MTR.0.85;1467345661;OK;www.comcast.com;1;192.168.10.1;1798
+MTR.0.85;1467345661;OK;www.comcast.com;2;96.120.104.177;9739
+MTR.0.85;1467345661;OK;www.comcast.com;3;68.87.130.233;11766
+MTR.0.85;1467345661;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11203
+MTR.0.85;1467345661;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14575
+MTR.0.85;1467345661;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17923
+MTR.0.85;1467345661;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16070
+MTR.0.85;1467345661;OK;www.comcast.com;8;68.87.29.59;16761
+MTR.0.85;1467345721;OK;www.comcast.com;1;192.168.10.1;1254
+MTR.0.85;1467345721;OK;www.comcast.com;2;96.120.104.177;10241
+MTR.0.85;1467345721;OK;www.comcast.com;3;68.87.130.233;8351
+MTR.0.85;1467345721;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11681
+MTR.0.85;1467345721;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13762
+MTR.0.85;1467345721;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18456
+MTR.0.85;1467345721;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16588
+MTR.0.85;1467345721;OK;www.comcast.com;8;68.87.29.59;16056
+MTR.0.85;1467345781;OK;www.comcast.com;1;192.168.10.1;1316
+MTR.0.85;1467345781;OK;www.comcast.com;2;96.120.104.177;10177
+MTR.0.85;1467345781;OK;www.comcast.com;3;68.87.130.233;9614
+MTR.0.85;1467345781;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12972
+MTR.0.85;1467345781;OK;www.comcast.com;5;ashburn.va.net (68.86.90.57);13706
+MTR.0.85;1467345781;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);21069
+MTR.0.85;1467345781;OK;www.comcast.com;7;westchester.pa.bo.net (68.85.137.213);16521
+MTR.0.85;1467345781;OK;www.comcast.com;8;68.87.29.59;15943
+MTR.0.85;1467345842;OK;www.comcast.com;1;192.168.10.1;1881
+MTR.0.85;1467345842;OK;www.comcast.com;2;96.120.104.177;9350
+MTR.0.85;1467345842;OK;www.comcast.com;3;68.87.130.233;10075
+MTR.0.85;1467345842;OK;www.comcast.com;4;ae-53-0-ar01.net (68.86.204.217);10886
+MTR.0.85;1467345842;OK;www.comcast.com;5;be.net (68.86.90.57);14243
+MTR.0.85;1467345842;OK;www.comcast.com;6;he-0-2-.net (68.86.94.226);18874
+MTR.0.85;1467345842;OK;www.comcast.com;7;bu-101-ur21.net (68.85.137.213);18316
+MTR.0.85;1467345842;OK;www.comcast.com;8;68.87.29.59;16408
+MTR.0.85;1467345901;OK;www.comcast.com;1;192.168.10.1;767
+MTR.0.85;1467345901;OK;www.comcast.com;2;96.120.104.177;9978
+MTR.0.85;1467345901;OK;www.comcast.com;3;68.87.130.233;10692
+MTR.0.85;1467345901;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11428
+MTR.0.85;1467345901;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13473
+MTR.0.85;1467345901;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18165
+MTR.0.85;1467345901;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16342
+MTR.0.85;1467345901;OK;www.comcast.com;8;68.87.29.59;17088
+MTR.0.85;1467345961;OK;www.comcast.com;1;192.168.10.1;1345
+MTR.0.85;1467345961;OK;www.comcast.com;2;96.120.104.177;9513
+MTR.0.85;1467345961;OK;www.comcast.com;3;68.87.130.233;10245
+MTR.0.85;1467345961;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);9677
+MTR.0.85;1467345961;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13051
+MTR.0.85;1467345961;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17711
+MTR.0.85;1467345961;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18531
+MTR.0.85;1467345961;OK;www.comcast.com;8;68.87.29.59;17912
+MTR.0.85;1467346021;OK;www.comcast.com;1;192.168.10.1;781
+MTR.0.85;1467346021;OK;www.comcast.com;2;96.120.104.177;10247
+MTR.0.85;1467346021;OK;www.comcast.com;3;68.87.130.233;24065
+MTR.0.85;1467346021;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10385
+MTR.0.85;1467346021;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13799
+MTR.0.85;1467346021;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19771
+MTR.0.85;1467346021;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16585
+MTR.0.85;1467346021;OK;www.comcast.com;8;68.87.29.59;17370
+MTR.0.85;1467346081;OK;www.comcast.com;1;192.168.10.1;1036
+MTR.0.85;1467346081;OK;www.comcast.com;2;96.120.104.177;9028
+MTR.0.85;1467346081;OK;www.comcast.com;3;68.87.130.233;9771
+MTR.0.85;1467346081;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10512
+MTR.0.85;1467346081;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13884
+MTR.0.85;1467346081;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);25141
+MTR.0.85;1467346081;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);19317
+MTR.0.85;1467346081;OK;www.comcast.com;8;68.87.29.59;24011
+MTR.0.85;1467346141;OK;www.comcast.com;1;192.168.10.1;1720
+MTR.0.85;1467346141;OK;www.comcast.com;2;96.120.104.177;11258
+MTR.0.85;1467346141;OK;www.comcast.com;3;68.87.130.233;14616
+MTR.0.85;1467346141;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10102
+MTR.0.85;1467346141;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13477
+MTR.0.85;1467346141;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19573
+MTR.0.85;1467346141;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17680
+MTR.0.85;1467346141;OK;www.comcast.com;8;68.87.29.59;17052
+MTR.0.85;1467346201;OK;www.comcast.com;1;192.168.10.1;2110
+MTR.0.85;1467346201;OK;www.comcast.com;2;96.120.104.177;8868
+MTR.0.85;1467346201;OK;www.comcast.com;3;68.87.130.233;10970
+MTR.0.85;1467346201;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10433
+MTR.0.85;1467346201;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12471
+MTR.0.85;1467346201;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18545
+MTR.0.85;1467346201;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16615
+MTR.0.85;1467346201;OK;www.comcast.com;8;68.87.29.59;15999
+MTR.0.85;1467346261;OK;www.comcast.com;1;192.168.10.1;1130
+MTR.0.85;1467346261;OK;www.comcast.com;2;96.120.104.177;10403
+MTR.0.85;1467346261;OK;www.comcast.com;3;68.87.130.233;11129
+MTR.0.85;1467346261;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10593
+MTR.0.85;1467346261;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12650
+MTR.0.85;1467346261;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);25197
+MTR.0.85;1467346261;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16789
+MTR.0.85;1467346261;OK;www.comcast.com;8;68.87.29.59;16235
+MTR.0.85;1467346321;OK;www.comcast.com;1;192.168.10.1;1118
+MTR.0.85;1467346321;OK;www.comcast.com;2;96.120.104.177;9290
+MTR.0.85;1467346321;OK;www.comcast.com;3;68.87.130.233;8724
+MTR.0.85;1467346321;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10778
+MTR.0.85;1467346321;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14160
+MTR.0.85;1467346321;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16229
+MTR.0.85;1467346321;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16967
+MTR.0.85;1467346321;OK;www.comcast.com;8;68.87.29.59;15071
+MTR.0.85;1467346381;OK;www.comcast.com;1;192.168.10.1;925
+MTR.0.85;1467346381;OK;www.comcast.com;2;96.120.104.177;9206
+MTR.0.85;1467346381;OK;www.comcast.com;3;68.87.130.233;9941
+MTR.0.85;1467346381;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10690
+MTR.0.85;1467346381;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14075
+MTR.0.85;1467346381;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20104
+MTR.0.85;1467346381;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16873
+MTR.0.85;1467346381;OK;www.comcast.com;8;68.87.29.59;16307
+MTR.0.85;1467346442;OK;www.comcast.com;1;192.168.10.1;1098
+MTR.0.85;1467346442;OK;www.comcast.com;2;96.120.104.177;10453
+MTR.0.85;1467346442;OK;www.comcast.com;3;68.87.130.233;10503
+MTR.0.85;1467346442;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);9883
+MTR.0.85;1467346442;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13239
+MTR.0.85;1467346442;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16614
+MTR.0.85;1467346442;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17347
+MTR.0.85;1467346442;OK;www.comcast.com;8;68.87.29.59;16805
+MTR.0.85;1467346501;OK;www.comcast.com;1;192.168.10.1;2028
+MTR.0.85;1467346501;OK;www.comcast.com;2;96.120.104.177;10171
+MTR.0.85;1467346501;OK;www.comcast.com;3;68.87.130.233;8269
+MTR.0.85;1467346501;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10361
+MTR.0.85;1467346501;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12406
+MTR.0.85;1467346501;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17062
+MTR.0.85;1467346501;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16579
+MTR.0.85;1467346501;OK;www.comcast.com;8;68.87.29.59;18578
+MTR.0.85;1467346561;OK;www.comcast.com;1;192.168.10.1;1495
+MTR.0.85;1467346561;OK;www.comcast.com;2;96.120.104.177;10845
+MTR.0.85;1467346561;OK;www.comcast.com;3;68.87.130.233;8986
+MTR.0.85;1467346561;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11019
+MTR.0.85;1467346561;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13098
+MTR.0.85;1467346561;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16505
+MTR.0.85;1467346561;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);15936
+MTR.0.85;1467346561;OK;www.comcast.com;8;68.87.29.59;18016
+MTR.0.85;1467346621;OK;www.comcast.com;1;192.168.10.1;938
+MTR.0.85;1467346621;OK;www.comcast.com;2;96.120.104.177;9757
+MTR.0.85;1467346621;OK;www.comcast.com;3;68.87.130.233;10492
+MTR.0.85;1467346621;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);19101
+MTR.0.85;1467346621;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14599
+MTR.0.85;1467346621;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20696
+MTR.0.85;1467346621;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17511
+MTR.0.85;1467346621;OK;www.comcast.com;8;68.87.29.59;16910
+MTR.0.85;1467346681;OK;www.comcast.com;1;192.168.10.1;1181
+MTR.0.85;1467346681;OK;www.comcast.com;2;96.120.104.177;10591
+MTR.0.85;1467346681;OK;www.comcast.com;3;68.87.130.233;10002
+MTR.0.85;1467346681;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10758
+MTR.0.85;1467346681;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14138
+MTR.0.85;1467346681;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18815
+MTR.0.85;1467346681;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16910
+MTR.0.85;1467346681;OK;www.comcast.com;8;68.87.29.59;17629
+MTR.0.85;1467346741;OK;www.comcast.com;1;192.168.10.1;1317
+MTR.0.85;1467346741;OK;www.comcast.com;2;96.120.104.177;10564
+MTR.0.85;1467346741;OK;www.comcast.com;3;68.87.130.233;8729
+MTR.0.85;1467346741;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12138
+MTR.0.85;1467346741;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14178
+MTR.0.85;1467346741;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18851
+MTR.0.85;1467346741;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16974
+MTR.0.85;1467346741;OK;www.comcast.com;8;68.87.29.59;16395
+MTR.0.85;1467346801;OK;www.comcast.com;1;192.168.10.1;1208
+MTR.0.85;1467346801;OK;www.comcast.com;2;96.120.104.177;9413
+MTR.0.85;1467346801;OK;www.comcast.com;3;68.87.130.233;18015
+MTR.0.85;1467346801;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10922
+MTR.0.85;1467346801;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12966
+MTR.0.85;1467346801;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17690
+MTR.0.85;1467346801;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);15801
+MTR.0.85;1467346801;OK;www.comcast.com;8;68.87.29.59;16591
+MTR.0.85;1467346861;OK;www.comcast.com;1;192.168.10.1;887
+MTR.0.85;1467346861;OK;www.comcast.com;2;96.120.104.177;10185
+MTR.0.85;1467346861;OK;www.comcast.com;3;68.87.130.233;11000
+MTR.0.85;1467346861;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10360
+MTR.0.85;1467346861;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);15049
+MTR.0.85;1467346861;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18394
+MTR.0.85;1467346861;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);25740
+MTR.0.85;1467346861;OK;www.comcast.com;8;68.87.29.59;16120
+MTR.0.85;1467346921;OK;www.comcast.com;1;192.168.10.1;1580
+MTR.0.85;1467346921;OK;www.comcast.com;2;96.120.104.177;10717
+MTR.0.85;1467346921;OK;www.comcast.com;3;68.87.130.233;10104
+MTR.0.85;1467346921;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);20035
+MTR.0.85;1467346921;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12923
+MTR.0.85;1467346921;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18928
+MTR.0.85;1467346921;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17116
+MTR.0.85;1467346921;OK;www.comcast.com;8;68.87.29.59;17758
+MTR.0.85;1467346981;OK;www.comcast.com;1;192.168.10.1;858
+MTR.0.85;1467346981;OK;www.comcast.com;2;96.120.104.177;11526
+MTR.0.85;1467346981;OK;www.comcast.com;3;68.87.130.233;9642
+MTR.0.85;1467346981;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10489
+MTR.0.85;1467346981;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13852
+MTR.0.85;1467346981;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17224
+MTR.0.85;1467346981;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17971
+MTR.0.85;1467346981;OK;www.comcast.com;8;68.87.29.59;14753
+MTR.0.85;1467347042;OK;www.comcast.com;1;192.168.10.1;1459
+MTR.0.85;1467347042;OK;www.comcast.com;2;96.120.104.177;10850
+MTR.0.85;1467347042;OK;www.comcast.com;3;68.87.130.233;9411
+MTR.0.85;1467347042;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);15387
+MTR.0.85;1467347042;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13503
+MTR.0.85;1467347042;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18201
+MTR.0.85;1467347042;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16352
+MTR.0.85;1467347042;OK;www.comcast.com;8;68.87.29.59;17108
+MTR.0.85;1467347101;OK;www.comcast.com;1;192.168.10.1;1062
+MTR.0.85;1467347101;OK;www.comcast.com;2;96.120.104.177;9134
+MTR.0.85;1467347101;OK;www.comcast.com;3;68.87.130.233;8577
+MTR.0.85;1467347101;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11971
+MTR.0.85;1467347101;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12722
+MTR.0.85;1467347101;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17400
+MTR.0.85;1467347101;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);15509
+MTR.0.85;1467347101;OK;www.comcast.com;8;68.87.29.59;16259
+MTR.0.85;1467347161;OK;www.comcast.com;1;192.168.10.1;1234
+MTR.0.85;1467347161;OK;www.comcast.com;2;96.120.104.177;10645
+MTR.0.85;1467347161;OK;www.comcast.com;3;68.87.130.233;8765
+MTR.0.85;1467347161;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10802
+MTR.0.85;1467347161;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14176
+MTR.0.85;1467347161;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17557
+MTR.0.85;1467347161;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18319
+MTR.0.85;1467347161;OK;www.comcast.com;8;68.87.29.59;16437
+MTR.0.85;1467347221;OK;www.comcast.com;1;192.168.10.1;820
+MTR.0.85;1467347221;OK;www.comcast.com;2;96.120.104.177;10280
+MTR.0.85;1467347221;OK;www.comcast.com;3;68.87.130.233;9672
+MTR.0.85;1467347221;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);41892
+MTR.0.85;1467347221;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12505
+MTR.0.85;1467347221;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18480
+MTR.0.85;1467347221;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16590
+MTR.0.85;1467347221;OK;www.comcast.com;8;68.87.29.59;17347
+MTR.0.85;1467347281;OK;www.comcast.com;1;192.168.10.1;789
+MTR.0.85;1467347281;OK;www.comcast.com;2;96.120.104.177;10206
+MTR.0.85;1467347281;OK;www.comcast.com;3;68.87.130.233;9645
+MTR.0.85;1467347281;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11680
+MTR.0.85;1467347281;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);15011
+MTR.0.85;1467347281;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19895
+MTR.0.85;1467347281;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16721
+MTR.0.85;1467347281;OK;www.comcast.com;8;68.87.29.59;17415
+MTR.0.85;1467347341;OK;www.comcast.com;1;192.168.10.1;1605
+MTR.0.85;1467347341;OK;www.comcast.com;2;96.120.104.177;9713
+MTR.0.85;1467347341;OK;www.comcast.com;3;68.87.130.233;9136
+MTR.0.85;1467347341;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);9890
+MTR.0.85;1467347341;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13285
+MTR.0.85;1467347341;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19253
+MTR.0.85;1467347341;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18694
+MTR.0.85;1467347341;OK;www.comcast.com;8;68.87.29.59;16814
+MTR.0.85;1467347401;OK;www.comcast.com;1;192.168.10.1;2021
+MTR.0.85;1467347401;OK;www.comcast.com;2;96.120.104.177;10227
+MTR.0.85;1467347401;OK;www.comcast.com;3;68.87.130.233;17538
+MTR.0.85;1467347401;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12418
+MTR.0.85;1467347401;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13150
+MTR.0.85;1467347401;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19157
+MTR.0.85;1467347401;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17271
+MTR.0.85;1467347401;OK;www.comcast.com;8;68.87.29.59;18016
+MTR.0.85;1467347461;OK;www.comcast.com;1;192.168.10.1;1397
+MTR.0.85;1467347461;OK;www.comcast.com;2;96.120.104.177;10533
+MTR.0.85;1467347461;OK;www.comcast.com;3;68.87.130.233;8672
+MTR.0.85;1467347461;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);18591
+MTR.0.85;1467347461;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14068
+MTR.0.85;1467347461;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18737
+MTR.0.85;1467347461;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16901
+MTR.0.85;1467347461;OK;www.comcast.com;8;68.87.29.59;15011
+MTR.0.85;1467347521;OK;www.comcast.com;1;192.168.10.1;1990
+MTR.0.85;1467347521;OK;www.comcast.com;2;96.120.104.177;10195
+MTR.0.85;1467347521;OK;www.comcast.com;3;68.87.130.233;12254
+MTR.0.85;1467347521;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10346
+MTR.0.85;1467347521;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12410
+MTR.0.85;1467347521;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19723
+MTR.0.85;1467347521;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16590
+MTR.0.85;1467347521;OK;www.comcast.com;8;68.87.29.59;16346
+MTR.0.85;1467347581;OK;www.comcast.com;1;192.168.10.1;790
+MTR.0.85;1467347581;OK;www.comcast.com;2;96.120.104.177;9093
+MTR.0.85;1467347581;OK;www.comcast.com;3;68.87.130.233;9858
+MTR.0.85;1467347581;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10582
+MTR.0.85;1467347581;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12690
+MTR.0.85;1467347581;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17294
+MTR.0.85;1467347581;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16793
+MTR.0.85;1467347581;OK;www.comcast.com;8;68.87.29.59;16161
+MTR.0.85;1467347641;OK;www.comcast.com;1;192.168.10.1;1368
+MTR.0.85;1467347641;OK;www.comcast.com;2;96.120.104.177;9587
+MTR.0.85;1467347641;OK;www.comcast.com;3;68.87.130.233;56225
+MTR.0.85;1467347641;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11704
+MTR.0.85;1467347641;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);15042
+MTR.0.85;1467347641;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18426
+MTR.0.85;1467347641;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16538
+MTR.0.85;1467347641;OK;www.comcast.com;8;68.87.29.59;17278
+MTR.0.85;1467347701;OK;www.comcast.com;1;192.168.10.1;1068
+MTR.0.85;1467347701;OK;www.comcast.com;2;96.120.104.177;9129
+MTR.0.85;1467347701;OK;www.comcast.com;3;68.87.130.233;8568
+MTR.0.85;1467347701;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10644
+MTR.0.85;1467347701;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13990
+MTR.0.85;1467347701;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17379
+MTR.0.85;1467347701;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16824
+MTR.0.85;1467347701;OK;www.comcast.com;8;68.87.29.59;17535
+MTR.0.85;1467347762;OK;www.comcast.com;1;192.168.10.1;1975
+MTR.0.85;1467347762;OK;www.comcast.com;2;96.120.104.177;10424
+MTR.0.85;1467347762;OK;www.comcast.com;3;68.87.130.233;9858
+MTR.0.85;1467347762;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10622
+MTR.0.85;1467347762;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12671
+MTR.0.85;1467347762;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);21261
+MTR.0.85;1467347762;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18072
+MTR.0.85;1467347762;OK;www.comcast.com;8;68.87.29.59;16179
+MTR.0.85;1467347821;OK;www.comcast.com;1;192.168.10.1;1568
+MTR.0.85;1467347821;OK;www.comcast.com;2;96.120.104.177;10092
+MTR.0.85;1467347821;OK;www.comcast.com;3;68.87.130.233;10835
+MTR.0.85;1467347821;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10295
+MTR.0.85;1467347821;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13629
+MTR.0.85;1467347821;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);23547
+MTR.0.85;1467347821;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17725
+MTR.0.85;1467347821;OK;www.comcast.com;8;68.87.29.59;15836
+MTR.0.85;1467347881;OK;www.comcast.com;1;192.168.10.1;1333
+MTR.0.85;1467347881;OK;www.comcast.com;2;96.120.104.177;9451
+MTR.0.85;1467347881;OK;www.comcast.com;3;68.87.130.233;10190
+MTR.0.85;1467347881;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10934
+MTR.0.85;1467347881;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13008
+MTR.0.85;1467347881;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17677
+MTR.0.85;1467347881;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17307
+MTR.0.85;1467347881;OK;www.comcast.com;8;68.87.29.59;16740
+MTR.0.85;1467347941;OK;www.comcast.com;1;192.168.10.1;1524
+MTR.0.85;1467347941;OK;www.comcast.com;2;96.120.104.177;10984
+MTR.0.85;1467347941;OK;www.comcast.com;3;68.87.130.233;9078
+MTR.0.85;1467347941;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11134
+MTR.0.85;1467347941;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13156
+MTR.0.85;1467347941;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19147
+MTR.0.85;1467347941;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18576
+MTR.0.85;1467347941;OK;www.comcast.com;8;68.87.29.59;16710
+MTR.0.85;1467348001;OK;www.comcast.com;1;192.168.10.1;1648
+MTR.0.85;1467348001;OK;www.comcast.com;2;96.120.104.177;9943
+MTR.0.85;1467348001;OK;www.comcast.com;3;68.87.130.233;10685
+MTR.0.85;1467348001;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10128
+MTR.0.85;1467348001;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13534
+MTR.0.85;1467348001;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);26086
+MTR.0.85;1467348001;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17631
+MTR.0.85;1467348001;OK;www.comcast.com;8;68.87.29.59;17044
+MTR.0.85;1467348062;OK;www.comcast.com;1;192.168.10.1;1810
+MTR.0.85;1467348062;OK;www.comcast.com;2;96.120.104.177;9901
+MTR.0.85;1467348062;OK;www.comcast.com;3;68.87.130.233;10669
+MTR.0.85;1467348062;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10130
+MTR.0.85;1467348062;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14785
+MTR.0.85;1467348062;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18243
+MTR.0.85;1467348062;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17736
+MTR.0.85;1467348062;OK;www.comcast.com;8;68.87.29.59;15865
+MTR.0.85;1467348121;OK;www.comcast.com;1;192.168.10.1;1403
+MTR.0.85;1467348121;OK;www.comcast.com;2;96.120.104.177;10736
+MTR.0.85;1467348121;OK;www.comcast.com;3;68.87.130.233;10134
+MTR.0.85;1467348121;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12197
+MTR.0.85;1467348121;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12938
+MTR.0.85;1467348121;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17613
+MTR.0.85;1467348121;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17048
+MTR.0.85;1467348121;OK;www.comcast.com;8;68.87.29.59;15189
+MTR.0.85;1467348181;OK;www.comcast.com;1;192.168.10.1;1471
+MTR.0.85;1467348181;OK;www.comcast.com;2;96.120.104.177;9564
+MTR.0.85;1467348181;OK;www.comcast.com;3;68.87.130.233;9027
+MTR.0.85;1467348181;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);16327
+MTR.0.85;1467348181;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13132
+MTR.0.85;1467348181;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16515
+MTR.0.85;1467348181;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17251
+MTR.0.85;1467348181;OK;www.comcast.com;8;68.87.29.59;15357
+MTR.0.85;1467348241;OK;www.comcast.com;1;192.168.10.1;854
+MTR.0.85;1467348241;OK;www.comcast.com;2;96.120.104.177;8972
+MTR.0.85;1467348241;OK;www.comcast.com;3;68.87.130.233;11907
+MTR.0.85;1467348241;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11030
+MTR.0.85;1467348241;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14562
+MTR.0.85;1467348241;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);21137
+MTR.0.85;1467348241;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16695
+MTR.0.85;1467348241;OK;www.comcast.com;8;68.87.29.59;15456
+MTR.0.85;1467348301;OK;www.comcast.com;1;192.168.10.1;909
+MTR.0.85;1467348301;OK;www.comcast.com;2;96.120.104.177;11625
+MTR.0.85;1467348301;OK;www.comcast.com;3;68.87.130.233;11026
+MTR.0.85;1467348301;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10456
+MTR.0.85;1467348301;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13821
+MTR.0.85;1467348301;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17191
+MTR.0.85;1467348301;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16664
+MTR.0.85;1467348301;OK;www.comcast.com;8;68.87.29.59;17399
+MTR.0.85;1467348361;OK;www.comcast.com;1;192.168.10.1;1284
+MTR.0.85;1467348361;OK;www.comcast.com;2;96.120.104.177;10589
+MTR.0.85;1467348361;OK;www.comcast.com;3;68.87.130.233;10061
+MTR.0.85;1467348361;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10816
+MTR.0.85;1467348361;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12878
+MTR.0.85;1467348361;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16208
+MTR.0.85;1467348361;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16961
+MTR.0.85;1467348361;OK;www.comcast.com;8;68.87.29.59;16413
+MTR.0.85;1467348422;OK;www.comcast.com;1;192.168.10.1;1249
+MTR.0.85;1467348422;OK;www.comcast.com;2;96.120.104.177;9438
+MTR.0.85;1467348422;OK;www.comcast.com;3;68.87.130.233;8819
+MTR.0.85;1467348422;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10895
+MTR.0.85;1467348422;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14555
+MTR.0.85;1467348422;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17927
+MTR.0.85;1467348422;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17352
+MTR.0.85;1467348422;OK;www.comcast.com;8;68.87.29.59;16749
+MTR.0.85;1467348482;OK;www.comcast.com;1;192.168.10.1;1854
+MTR.0.85;1467348482;OK;www.comcast.com;2;96.120.104.177;9890
+MTR.0.85;1467348482;OK;www.comcast.com;3;68.87.130.233;10609
+MTR.0.85;1467348482;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10019
+MTR.0.85;1467348482;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14703
+MTR.0.85;1467348482;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19369
+MTR.0.85;1467348482;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16987
+MTR.0.85;1467348482;OK;www.comcast.com;8;68.87.29.59;16407
+MTR.0.85;1467348541;OK;www.comcast.com;1;192.168.10.1;929
+MTR.0.85;1467348541;OK;www.comcast.com;2;96.120.104.177;10034
+MTR.0.85;1467348541;OK;www.comcast.com;3;68.87.130.233;10763
+MTR.0.85;1467348541;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10188
+MTR.0.85;1467348541;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13568
+MTR.0.85;1467348541;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16903
+MTR.0.85;1467348541;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16346
+MTR.0.85;1467348541;OK;www.comcast.com;8;68.87.29.59;17072
+MTR.0.85;1467348601;OK;www.comcast.com;1;192.168.10.1;1366
+MTR.0.85;1467348601;OK;www.comcast.com;2;96.120.104.177;9461
+MTR.0.85;1467348601;OK;www.comcast.com;3;68.87.130.233;8845
+MTR.0.85;1467348601;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11042
+MTR.0.85;1467348601;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13050
+MTR.0.85;1467348601;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19115
+MTR.0.85;1467348601;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17267
+MTR.0.85;1467348601;OK;www.comcast.com;8;68.87.29.59;16696
+MTR.0.85;1467348661;OK;www.comcast.com;1;192.168.10.1;1436
+MTR.0.85;1467348661;OK;www.comcast.com;2;96.120.104.177;9484
+MTR.0.85;1467348661;OK;www.comcast.com;3;68.87.130.233;10212
+MTR.0.85;1467348661;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);17518
+MTR.0.85;1467348661;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14316
+MTR.0.85;1467348661;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17680
+MTR.0.85;1467348661;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17105
+MTR.0.85;1467348661;OK;www.comcast.com;8;68.87.29.59;16598
+MTR.0.85;1467348721;OK;www.comcast.com;1;192.168.10.1;1079
+MTR.0.85;1467348721;OK;www.comcast.com;2;96.120.104.177;10558
+MTR.0.85;1467348721;OK;www.comcast.com;3;68.87.130.233;8694
+MTR.0.85;1467348721;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12048
+MTR.0.85;1467348721;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14150
+MTR.0.85;1467348721;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18819
+MTR.0.85;1467348721;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16961
+MTR.0.85;1467348721;OK;www.comcast.com;8;68.87.29.59;16387
+MTR.0.85;1467348782;OK;www.comcast.com;1;192.168.10.1;1284
+MTR.0.85;1467348782;OK;www.comcast.com;2;96.120.104.177;9351
+MTR.0.85;1467348782;OK;www.comcast.com;3;68.87.130.233;8815
+MTR.0.85;1467348782;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12259
+MTR.0.85;1467348782;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12977
+MTR.0.85;1467348782;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18988
+MTR.0.85;1467348782;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17110
+MTR.0.85;1467348782;OK;www.comcast.com;8;68.87.29.59;16539
+MTR.0.85;1467348841;OK;www.comcast.com;1;192.168.10.1;944
+MTR.0.85;1467348841;OK;www.comcast.com;2;96.120.104.177;9099
+MTR.0.85;1467348841;OK;www.comcast.com;3;68.87.130.233;8502
+MTR.0.85;1467348841;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);17100
+MTR.0.85;1467348841;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12635
+MTR.0.85;1467348841;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16027
+MTR.0.85;1467348841;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16798
+MTR.0.85;1467348841;OK;www.comcast.com;8;68.87.29.59;16196
+MTR.0.85;1467348901;OK;www.comcast.com;1;192.168.10.1;1134
+MTR.0.85;1467348901;OK;www.comcast.com;2;96.120.104.177;10582
+MTR.0.85;1467348901;OK;www.comcast.com;3;68.87.130.233;9982
+MTR.0.85;1467348901;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10739
+MTR.0.85;1467348901;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12773
+MTR.0.85;1467348901;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20096
+MTR.0.85;1467348901;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16305
+MTR.0.85;1467348901;OK;www.comcast.com;8;68.87.29.59;17029
+MTR.0.85;1467348961;OK;www.comcast.com;1;192.168.10.1;1956
+MTR.0.85;1467348961;OK;www.comcast.com;2;96.120.104.177;9941
+MTR.0.85;1467348961;OK;www.comcast.com;3;68.87.130.233;9323
+MTR.0.85;1467348961;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10110
+MTR.0.85;1467348961;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14854
+MTR.0.85;1467348961;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16855
+MTR.0.85;1467348961;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16286
+MTR.0.85;1467348961;OK;www.comcast.com;8;68.87.29.59;15694
+MTR.0.85;1467349021;OK;www.comcast.com;1;192.168.10.1;795
+MTR.0.85;1467349021;OK;www.comcast.com;2;96.120.104.177;8974
+MTR.0.85;1467349021;OK;www.comcast.com;3;68.87.130.233;9388
+MTR.0.85;1467349021;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);15399
+MTR.0.85;1467349021;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13509
+MTR.0.85;1467349021;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18202
+MTR.0.85;1467349021;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16326
+MTR.0.85;1467349021;OK;www.comcast.com;8;68.87.29.59;17050
+MTR.0.85;1467349082;OK;www.comcast.com;1;192.168.10.1;1501
+MTR.0.85;1467349082;OK;www.comcast.com;2;96.120.104.177;9762
+MTR.0.85;1467349082;OK;www.comcast.com;3;68.87.130.233;9375
+MTR.0.85;1467349082;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11457
+MTR.0.85;1467349082;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13477
+MTR.0.85;1467349082;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18157
+MTR.0.85;1467349082;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17569
+MTR.0.85;1467349082;OK;www.comcast.com;8;68.87.29.59;15681
+MTR.0.85;1467349141;OK;www.comcast.com;1;192.168.10.1;1298
+MTR.0.85;1467349141;OK;www.comcast.com;2;96.120.104.177;10235
+MTR.0.85;1467349141;OK;www.comcast.com;3;68.87.130.233;11089
+MTR.0.85;1467349141;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);19716
+MTR.0.85;1467349141;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13893
+MTR.0.85;1467349141;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18612
+MTR.0.85;1467349141;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16732
+MTR.0.85;1467349141;OK;www.comcast.com;8;68.87.29.59;16161
+MTR.0.85;1467349201;OK;www.comcast.com;1;192.168.10.1;1341
+MTR.0.85;1467349201;OK;www.comcast.com;2;96.120.104.177;10425
+MTR.0.85;1467349201;OK;www.comcast.com;3;68.87.130.233;9858
+MTR.0.85;1467349201;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10599
+MTR.0.85;1467349201;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13954
+MTR.0.85;1467349201;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18688
+MTR.0.85;1467349201;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16831
+MTR.0.85;1467349201;OK;www.comcast.com;8;68.87.29.59;14911
+MTR.0.85;1467349261;OK;www.comcast.com;1;192.168.10.1;2077
+MTR.0.85;1467349261;OK;www.comcast.com;2;96.120.104.177;8618
+MTR.0.85;1467349261;OK;www.comcast.com;3;68.87.130.233;10763
+MTR.0.85;1467349261;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11450
+MTR.0.85;1467349261;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13500
+MTR.0.85;1467349261;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19535
+MTR.0.85;1467349261;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16601
+MTR.0.85;1467349261;OK;www.comcast.com;8;68.87.29.59;18627
+MTR.0.85;1467349321;OK;www.comcast.com;1;192.168.10.1;1223
+MTR.0.85;1467349321;OK;www.comcast.com;2;96.120.104.177;10673
+MTR.0.85;1467349321;OK;www.comcast.com;3;68.87.130.233;8780
+MTR.0.85;1467349321;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10847
+MTR.0.85;1467349321;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);11573
+MTR.0.85;1467349321;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17680
+MTR.0.85;1467349321;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17041
+MTR.0.85;1467349321;OK;www.comcast.com;8;68.87.29.59;17756
+MTR.0.85;1467349382;OK;www.comcast.com;1;192.168.10.1;1283
+MTR.0.85;1467349382;OK;www.comcast.com;2;96.120.104.177;9448
+MTR.0.85;1467349382;OK;www.comcast.com;3;68.87.130.233;8860
+MTR.0.85;1467349382;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10911
+MTR.0.85;1467349382;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13012
+MTR.0.85;1467349382;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20323
+MTR.0.85;1467349382;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17080
+MTR.0.85;1467349382;OK;www.comcast.com;8;68.87.29.59;16526
+MTR.0.85;1467349442;OK;www.comcast.com;1;192.168.10.1;1305
+MTR.0.85;1467349442;OK;www.comcast.com;2;96.120.104.177;9402
+MTR.0.85;1467349442;OK;www.comcast.com;3;68.87.130.233;8888
+MTR.0.85;1467349442;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12279
+MTR.0.85;1467349442;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13039
+MTR.0.85;1467349442;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19073
+MTR.0.85;1467349442;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17187
+MTR.0.85;1467349442;OK;www.comcast.com;8;68.87.29.59;16606
+MTR.0.85;1467349501;OK;www.comcast.com;1;192.168.10.1;1175
+MTR.0.85;1467349501;OK;www.comcast.com;2;96.120.104.177;9414
+MTR.0.85;1467349501;OK;www.comcast.com;3;68.87.130.233;9178
+MTR.0.85;1467349501;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);30868
+MTR.0.85;1467349501;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14610
+MTR.0.85;1467349501;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16647
+MTR.0.85;1467349501;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17436
+MTR.0.85;1467349501;OK;www.comcast.com;8;68.87.29.59;16835
+MTR.0.85;1467349561;OK;www.comcast.com;1;192.168.10.1;2019
+MTR.0.85;1467349561;OK;www.comcast.com;2;96.120.104.177;9591
+MTR.0.85;1467349561;OK;www.comcast.com;3;68.87.130.233;28807
+MTR.0.85;1467349561;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10002
+MTR.0.85;1467349561;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12055
+MTR.0.85;1467349561;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16685
+MTR.0.85;1467349561;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18920
+MTR.0.85;1467349561;OK;www.comcast.com;8;68.87.29.59;17134
+MTR.0.85;1467349621;OK;www.comcast.com;1;192.168.10.1;1589
+MTR.0.85;1467349621;OK;www.comcast.com;2;96.120.104.177;9680
+MTR.0.85;1467349621;OK;www.comcast.com;3;68.87.130.233;10377
+MTR.0.85;1467349621;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);9844
+MTR.0.85;1467349621;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13204
+MTR.0.85;1467349621;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16584
+MTR.0.85;1467349621;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18674
+MTR.0.85;1467349621;OK;www.comcast.com;8;68.87.29.59;15506
+MTR.0.85;1467349681;OK;www.comcast.com;1;192.168.10.1;1032
+MTR.0.85;1467349681;OK;www.comcast.com;2;96.120.104.177;9097
+MTR.0.85;1467349681;OK;www.comcast.com;3;68.87.130.233;8619
+MTR.0.85;1467349681;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10688
+MTR.0.85;1467349681;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14069
+MTR.0.85;1467349681;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16130
+MTR.0.85;1467349681;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18200
+MTR.0.85;1467349681;OK;www.comcast.com;8;68.87.29.59;17635
+MTR.0.85;1467349741;OK;www.comcast.com;1;192.168.10.1;1962
+MTR.0.85;1467349741;OK;www.comcast.com;2;96.120.104.177;9994
+MTR.0.85;1467349741;OK;www.comcast.com;3;68.87.130.233;9471
+MTR.0.85;1467349741;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10228
+MTR.0.85;1467349741;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13584
+MTR.0.85;1467349741;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19555
+MTR.0.85;1467349741;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);15049
+MTR.0.85;1467349741;OK;www.comcast.com;8;68.87.29.59;17097
+MTR.0.85;1467349802;OK;www.comcast.com;1;192.168.10.1;2039
+MTR.0.85;1467349802;OK;www.comcast.com;2;96.120.104.177;8805
+MTR.0.85;1467349802;OK;www.comcast.com;3;68.87.130.233;9947
+MTR.0.85;1467349802;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11997
+MTR.0.85;1467349802;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);11410
+MTR.0.85;1467349802;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18734
+MTR.0.85;1467349802;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16832
+MTR.0.85;1467349802;OK;www.comcast.com;8;68.87.29.59;16306
+MTR.0.85;1467349861;OK;www.comcast.com;1;192.168.10.1;1137
+MTR.0.85;1467349861;OK;www.comcast.com;2;96.120.104.177;9242
+MTR.0.85;1467349861;OK;www.comcast.com;3;68.87.130.233;27060
+MTR.0.85;1467349861;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);14698
+MTR.0.85;1467349861;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12782
+MTR.0.85;1467349861;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20083
+MTR.0.85;1467349861;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16998
+MTR.0.85;1467349861;OK;www.comcast.com;8;68.87.29.59;16362
+MTR.0.85;1467349921;OK;www.comcast.com;1;192.168.10.1;1155
+MTR.0.85;1467349921;OK;www.comcast.com;2;96.120.104.177;10261
+MTR.0.85;1467349921;OK;www.comcast.com;3;68.87.130.233;9698
+MTR.0.85;1467349921;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11808
+MTR.0.85;1467349921;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13835
+MTR.0.85;1467349921;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19580
+MTR.0.85;1467349921;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16402
+MTR.0.85;1467349921;OK;www.comcast.com;8;68.87.29.59;17137
+MTR.0.85;1467349981;OK;www.comcast.com;1;192.168.10.1;1493
+MTR.0.85;1467349981;OK;www.comcast.com;2;96.120.104.177;10578
+MTR.0.85;1467349981;OK;www.comcast.com;3;68.87.130.233;10015
+MTR.0.85;1467349981;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10747
+MTR.0.85;1467349981;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12819
+MTR.0.85;1467349981;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16144
+MTR.0.85;1467349981;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);19534
+MTR.0.85;1467349981;OK;www.comcast.com;8;68.87.29.59;17752
+MTR.0.85;1467350041;OK;www.comcast.com;1;192.168.10.1;1271
+MTR.0.85;1467350041;OK;www.comcast.com;2;96.120.104.177;10738
+MTR.0.85;1467350041;OK;www.comcast.com;3;68.87.130.233;10166
+MTR.0.85;1467350041;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10403
+MTR.0.85;1467350041;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12465
+MTR.0.85;1467350041;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19775
+MTR.0.85;1467350041;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);15598
+MTR.0.85;1467350041;OK;www.comcast.com;8;68.87.29.59;16360
+MTR.0.85;1467350101;OK;www.comcast.com;1;192.168.10.1;1028
+MTR.0.85;1467350101;OK;www.comcast.com;2;96.120.104.177;9136
+MTR.0.85;1467350101;OK;www.comcast.com;3;68.87.130.233;8567
+MTR.0.85;1467350101;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);19803
+MTR.0.85;1467350101;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12693
+MTR.0.85;1467350101;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17439
+MTR.0.85;1467350101;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16845
+MTR.0.85;1467350101;OK;www.comcast.com;8;68.87.29.59;17538
+MTR.0.85;1467350162;OK;www.comcast.com;1;192.168.10.1;1296
+MTR.0.85;1467350162;OK;www.comcast.com;2;96.120.104.177;9391
+MTR.0.85;1467350162;OK;www.comcast.com;3;68.87.130.233;10148
+MTR.0.85;1467350162;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10901
+MTR.0.85;1467350162;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12992
+MTR.0.85;1467350162;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20274
+MTR.0.85;1467350162;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17144
+MTR.0.85;1467350162;OK;www.comcast.com;8;68.87.29.59;15225
+MTR.0.85;1467350221;OK;www.comcast.com;1;192.168.10.1;1021
+MTR.0.85;1467350221;OK;www.comcast.com;2;96.120.104.177;10588
+MTR.0.85;1467350221;OK;www.comcast.com;3;68.87.130.233;21840
+MTR.0.85;1467350221;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10746
+MTR.0.85;1467350221;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12827
+MTR.0.85;1467350221;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17540
+MTR.0.85;1467350221;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17006
+MTR.0.85;1467350221;OK;www.comcast.com;8;68.87.29.59;16447
+MTR.0.85;1467350281;OK;www.comcast.com;1;192.168.10.1;891
+MTR.0.85;1467350281;OK;www.comcast.com;2;96.120.104.177;8977
+MTR.0.85;1467350281;OK;www.comcast.com;3;68.87.130.233;11025
+MTR.0.85;1467350281;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10458
+MTR.0.85;1467350281;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);11195
+MTR.0.85;1467350281;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19829
+MTR.0.85;1467350281;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);15322
+MTR.0.85;1467350281;OK;www.comcast.com;8;68.87.29.59;15656
+MTR.0.85;1467350341;OK;www.comcast.com;1;192.168.10.1;834
+MTR.0.85;1467350341;OK;www.comcast.com;2;96.120.104.177;10287
+MTR.0.85;1467350341;OK;www.comcast.com;3;68.87.130.233;11017
+MTR.0.85;1467350341;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11760
+MTR.0.85;1467350341;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13884
+MTR.0.85;1467350341;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18623
+MTR.0.85;1467350341;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16677
+MTR.0.85;1467350341;OK;www.comcast.com;8;68.87.29.59;18723
+MTR.0.85;1467350401;OK;www.comcast.com;1;192.168.10.1;1445
+MTR.0.85;1467350401;OK;www.comcast.com;2;96.120.104.177;9551
+MTR.0.85;1467350401;OK;www.comcast.com;3;68.87.130.233;8968
+MTR.0.85;1467350401;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12316
+MTR.0.85;1467350401;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14463
+MTR.0.85;1467350401;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19082
+MTR.0.85;1467350401;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17241
+MTR.0.85;1467350401;OK;www.comcast.com;8;68.87.29.59;16649
+MTR.0.85;1467350461;OK;www.comcast.com;1;192.168.10.1;1625
+MTR.0.85;1467350461;OK;www.comcast.com;2;96.120.104.177;8507
+MTR.0.85;1467350461;OK;www.comcast.com;3;68.87.130.233;9223
+MTR.0.85;1467350461;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);9956
+MTR.0.85;1467350461;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13331
+MTR.0.85;1467350461;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18085
+MTR.0.85;1467350461;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17508
+MTR.0.85;1467350461;OK;www.comcast.com;8;68.87.29.59;15630
+MTR.0.85;1467350522;OK;www.comcast.com;1;192.168.10.1;1094
+MTR.0.85;1467350522;OK;www.comcast.com;2;96.120.104.177;8746
+MTR.0.85;1467350522;OK;www.comcast.com;3;68.87.130.233;9465
+MTR.0.85;1467350522;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11521
+MTR.0.85;1467350522;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13584
+MTR.0.85;1467350522;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16966
+MTR.0.85;1467350522;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16411
+MTR.0.85;1467350522;OK;www.comcast.com;8;68.87.29.59;17142
+MTR.0.85;1467350581;OK;www.comcast.com;1;192.168.10.1;1727
+MTR.0.85;1467350581;OK;www.comcast.com;2;96.120.104.177;10083
+MTR.0.85;1467350581;OK;www.comcast.com;3;68.87.130.233;9479
+MTR.0.85;1467350581;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10299
+MTR.0.85;1467350581;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);16293
+MTR.0.85;1467350581;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19642
+MTR.0.85;1467350581;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16489
+MTR.0.85;1467350581;OK;www.comcast.com;8;68.87.29.59;15913
+MTR.0.85;1467350641;OK;www.comcast.com;1;192.168.10.1;967
+MTR.0.85;1467350641;OK;www.comcast.com;2;96.120.104.177;9011
+MTR.0.85;1467350641;OK;www.comcast.com;3;68.87.130.233;11059
+MTR.0.85;1467350641;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10543
+MTR.0.85;1467350641;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13898
+MTR.0.85;1467350641;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);21186
+MTR.0.85;1467350641;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16732
+MTR.0.85;1467350641;OK;www.comcast.com;8;68.87.29.59;16422
+MTR.0.85;1467350701;OK;www.comcast.com;1;192.168.10.1;1742
+MTR.0.85;1467350701;OK;www.comcast.com;2;96.120.104.177;9892
+MTR.0.85;1467350701;OK;www.comcast.com;3;68.87.130.233;9334
+MTR.0.85;1467350701;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10082
+MTR.0.85;1467350701;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13422
+MTR.0.85;1467350701;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19425
+MTR.0.85;1467350701;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16382
+MTR.0.85;1467350701;OK;www.comcast.com;8;68.87.29.59;15800
+MTR.0.85;1467350761;OK;www.comcast.com;1;192.168.10.1;990
+MTR.0.85;1467350761;OK;www.comcast.com;2;96.120.104.177;10390
+MTR.0.85;1467350761;OK;www.comcast.com;3;68.87.130.233;8545
+MTR.0.85;1467350761;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10616
+MTR.0.85;1467350761;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12674
+MTR.0.85;1467350761;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19984
+MTR.0.85;1467350761;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16808
+MTR.0.85;1467350761;OK;www.comcast.com;8;68.87.29.59;17509
+MTR.0.85;1467350821;OK;www.comcast.com;1;192.168.10.1;2071
+MTR.0.85;1467350821;OK;www.comcast.com;2;96.120.104.177;8861
+MTR.0.85;1467350821;OK;www.comcast.com;3;68.87.130.233;9603
+MTR.0.85;1467350821;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10355
+MTR.0.85;1467350821;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13744
+MTR.0.85;1467350821;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19761
+MTR.0.85;1467350821;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17864
+MTR.0.85;1467350821;OK;www.comcast.com;8;68.87.29.59;17285
+MTR.0.85;1467350881;OK;www.comcast.com;1;192.168.10.1;1094
+MTR.0.85;1467350881;OK;www.comcast.com;2;96.120.104.177;10552
+MTR.0.85;1467350881;OK;www.comcast.com;3;68.87.130.233;9943
+MTR.0.85;1467350881;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12022
+MTR.0.85;1467350881;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12773
+MTR.0.85;1467350881;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17518
+MTR.0.85;1467350881;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16960
+MTR.0.85;1467350881;OK;www.comcast.com;8;68.87.29.59;16382
+MTR.0.85;1467350941;OK;www.comcast.com;1;192.168.10.1;1058
+MTR.0.85;1467350941;OK;www.comcast.com;2;96.120.104.177;10456
+MTR.0.85;1467350941;OK;www.comcast.com;3;68.87.130.233;12543
+MTR.0.85;1467350941;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10639
+MTR.0.85;1467350941;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12728
+MTR.0.85;1467350941;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18698
+MTR.0.85;1467350941;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16872
+MTR.0.85;1467350941;OK;www.comcast.com;8;68.87.29.59;16324
+MTR.0.85;1467351001;OK;www.comcast.com;1;192.168.10.1;856
+MTR.0.85;1467351001;OK;www.comcast.com;2;96.120.104.177;8606
+MTR.0.85;1467351001;OK;www.comcast.com;3;68.87.130.233;10663
+MTR.0.85;1467351001;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10106
+MTR.0.85;1467351001;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13411
+MTR.0.85;1467351001;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18082
+MTR.0.85;1467351001;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17526
+MTR.0.85;1467351001;OK;www.comcast.com;8;68.87.29.59;16932
+MTR.0.85;1467351061;OK;www.comcast.com;1;192.168.10.1;1111
+MTR.0.85;1467351061;OK;www.comcast.com;2;96.120.104.177;10570
+MTR.0.85;1467351061;OK;www.comcast.com;3;68.87.130.233;9993
+MTR.0.85;1467351061;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10708
+MTR.0.85;1467351061;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12767
+MTR.0.85;1467351061;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);21398
+MTR.0.85;1467351061;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16888
+MTR.0.85;1467351061;OK;www.comcast.com;8;68.87.29.59;25482
+MTR.0.85;1467351121;OK;www.comcast.com;1;192.168.10.1;1447
+MTR.0.85;1467351121;OK;www.comcast.com;2;96.120.104.177;10808
+MTR.0.85;1467351121;OK;www.comcast.com;3;68.87.130.233;8916
+MTR.0.85;1467351121;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);12288
+MTR.0.85;1467351121;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12972
+MTR.0.85;1467351121;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20205
+MTR.0.85;1467351121;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18346
+MTR.0.85;1467351121;OK;www.comcast.com;8;68.87.29.59;16482
+MTR.0.85;1467351181;OK;www.comcast.com;1;192.168.10.1;1617
+MTR.0.85;1467351181;OK;www.comcast.com;2;96.120.104.177;10982
+MTR.0.85;1467351181;OK;www.comcast.com;3;68.87.130.233;10369
+MTR.0.85;1467351181;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);9834
+MTR.0.85;1467351181;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);11906
+MTR.0.85;1467351181;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19211
+MTR.0.85;1467351181;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17324
+MTR.0.85;1467351181;OK;www.comcast.com;8;68.87.29.59;15435
+MTR.0.85;1467351241;OK;www.comcast.com;1;192.168.10.1;1102
+MTR.0.85;1467351241;OK;www.comcast.com;2;96.120.104.177;10309
+MTR.0.85;1467351241;OK;www.comcast.com;3;68.87.130.233;9741
+MTR.0.85;1467351241;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11795
+MTR.0.85;1467351241;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13839
+MTR.0.85;1467351241;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17205
+MTR.0.85;1467351241;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16694
+MTR.0.85;1467351241;OK;www.comcast.com;8;68.87.29.59;16065
+MTR.0.85;1467351301;OK;www.comcast.com;1;192.168.10.1;1688
+MTR.0.85;1467351301;OK;www.comcast.com;2;96.120.104.177;10592
+MTR.0.85;1467351301;OK;www.comcast.com;3;68.87.130.233;10024
+MTR.0.85;1467351301;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10727
+MTR.0.85;1467351301;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14125
+MTR.0.85;1467351301;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16170
+MTR.0.85;1467351301;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18277
+MTR.0.85;1467351301;OK;www.comcast.com;8;68.87.29.59;16363
+MTR.0.85;1467351361;OK;www.comcast.com;1;192.168.10.1;1011
+MTR.0.85;1467351361;OK;www.comcast.com;2;96.120.104.177;9068
+MTR.0.85;1467351361;OK;www.comcast.com;3;68.87.130.233;8456
+MTR.0.85;1467351361;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10520
+MTR.0.85;1467351361;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12572
+MTR.0.85;1467351361;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19866
+MTR.0.85;1467351361;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16669
+MTR.0.85;1467351361;OK;www.comcast.com;8;68.87.29.59;16076
+MTR.0.85;1467351422;OK;www.comcast.com;1;192.168.10.1;1492
+MTR.0.85;1467351422;OK;www.comcast.com;2;96.120.104.177;11144
+MTR.0.85;1467351422;OK;www.comcast.com;3;68.87.130.233;10610
+MTR.0.85;1467351422;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11337
+MTR.0.85;1467351422;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);38327
+MTR.0.85;1467351422;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18101
+MTR.0.85;1467351422;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17520
+MTR.0.85;1467351422;OK;www.comcast.com;8;68.87.29.59;15645
+MTR.0.85;1467351481;OK;www.comcast.com;1;192.168.10.1;2280
+MTR.0.85;1467351481;OK;www.comcast.com;2;96.120.104.177;10198
+MTR.0.85;1467351481;OK;www.comcast.com;3;68.87.130.233;9611
+MTR.0.85;1467351481;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10358
+MTR.0.85;1467351481;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13714
+MTR.0.85;1467351481;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);21056
+MTR.0.85;1467351481;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17889
+MTR.0.85;1467351481;OK;www.comcast.com;8;68.87.29.59;16012
+MTR.0.85;1467351541;OK;www.comcast.com;1;192.168.10.1;1339
+MTR.0.85;1467351541;OK;www.comcast.com;2;96.120.104.177;9512
+MTR.0.85;1467351541;OK;www.comcast.com;3;68.87.130.233;8931
+MTR.0.85;1467351541;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11008
+MTR.0.85;1467351541;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13055
+MTR.0.85;1467351541;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16425
+MTR.0.85;1467351541;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17188
+MTR.0.85;1467351541;OK;www.comcast.com;8;68.87.29.59;16596
+MTR.0.85;1467351601;OK;www.comcast.com;1;192.168.10.1;1896
+MTR.0.85;1467351601;OK;www.comcast.com;2;96.120.104.177;8916
+MTR.0.85;1467351601;OK;www.comcast.com;3;68.87.130.233;9658
+MTR.0.85;1467351601;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);16979
+MTR.0.85;1467351601;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);15170
+MTR.0.85;1467351601;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19791
+MTR.0.85;1467351601;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16842
+MTR.0.85;1467351601;OK;www.comcast.com;8;68.87.29.59;16248
+MTR.0.85;1467351661;OK;www.comcast.com;1;192.168.10.1;785
+MTR.0.85;1467351661;OK;www.comcast.com;2;96.120.104.177;8998
+MTR.0.85;1467351661;OK;www.comcast.com;3;68.87.130.233;9725
+MTR.0.85;1467351661;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10448
+MTR.0.85;1467351661;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12529
+MTR.0.85;1467351661;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18607
+MTR.0.85;1467351661;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16087
+MTR.0.85;1467351661;OK;www.comcast.com;8;68.87.29.59;16803
+MTR.0.85;1467351722;OK;www.comcast.com;1;192.168.10.1;912
+MTR.0.85;1467351722;OK;www.comcast.com;2;96.120.104.177;8855
+MTR.0.85;1467351722;OK;www.comcast.com;3;68.87.130.233;9589
+MTR.0.85;1467351722;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10347
+MTR.0.85;1467351722;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14999
+MTR.0.85;1467351722;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19686
+MTR.0.85;1467351722;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16487
+MTR.0.85;1467351722;OK;www.comcast.com;8;68.87.29.59;15954
+MTR.0.85;1467351781;OK;www.comcast.com;1;192.168.10.1;2061
+MTR.0.85;1467351781;OK;www.comcast.com;2;96.120.104.177;9541
+MTR.0.85;1467351781;OK;www.comcast.com;3;68.87.130.233;10277
+MTR.0.85;1467351781;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10985
+MTR.0.85;1467351781;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13171
+MTR.0.85;1467351781;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19047
+MTR.0.85;1467351781;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17183
+MTR.0.85;1467351781;OK;www.comcast.com;8;68.87.29.59;16615
+MTR.0.85;1467351841;OK;www.comcast.com;1;192.168.10.1;1997
+MTR.0.85;1467351841;OK;www.comcast.com;2;96.120.104.177;9326
+MTR.0.85;1467351841;OK;www.comcast.com;3;68.87.130.233;10073
+MTR.0.85;1467351841;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10748
+MTR.0.85;1467351841;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);15423
+MTR.0.85;1467351841;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18820
+MTR.0.85;1467351841;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);15632
+MTR.0.85;1467351841;OK;www.comcast.com;8;68.87.29.59;17666
+MTR.0.85;1467351901;OK;www.comcast.com;1;192.168.10.1;1314
+MTR.0.85;1467351901;OK;www.comcast.com;2;96.120.104.177;10679
+MTR.0.85;1467351901;OK;www.comcast.com;3;68.87.130.233;8739
+MTR.0.85;1467351901;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);18636
+MTR.0.85;1467351901;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14171
+MTR.0.85;1467351901;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19107
+MTR.0.85;1467351901;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17432
+MTR.0.85;1467351901;OK;www.comcast.com;8;68.87.29.59;17007
+MTR.0.85;1467351961;OK;www.comcast.com;1;192.168.10.1;2043
+MTR.0.85;1467351961;OK;www.comcast.com;2;96.120.104.177;9634
+MTR.0.85;1467351961;OK;www.comcast.com;3;68.87.130.233;10382
+MTR.0.85;1467351961;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11119
+MTR.0.85;1467351961;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14652
+MTR.0.85;1467351961;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19373
+MTR.0.85;1467351961;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16187
+MTR.0.85;1467351961;OK;www.comcast.com;8;68.87.29.59;15615
+MTR.0.85;1467352022;OK;www.comcast.com;1;192.168.10.1;1278
+MTR.0.85;1467352022;OK;www.comcast.com;2;96.120.104.177;10682
+MTR.0.85;1467352022;OK;www.comcast.com;3;68.87.130.233;45539
+MTR.0.85;1467352022;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10988
+MTR.0.85;1467352022;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14357
+MTR.0.85;1467352022;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19047
+MTR.0.85;1467352022;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);19755
+MTR.0.85;1467352022;OK;www.comcast.com;8;68.87.29.59;15310
+MTR.0.85;1467352081;OK;www.comcast.com;1;192.168.10.1;1222
+MTR.0.85;1467352081;OK;www.comcast.com;2;96.120.104.177;10621
+MTR.0.85;1467352081;OK;www.comcast.com;3;68.87.130.233;10045
+MTR.0.85;1467352081;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10855
+MTR.0.85;1467352081;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14204
+MTR.0.85;1467352081;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20231
+MTR.0.85;1467352081;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18328
+MTR.0.85;1467352081;OK;www.comcast.com;8;68.87.29.59;24309
+MTR.0.85;1467352141;OK;www.comcast.com;1;192.168.10.1;1870
+MTR.0.85;1467352141;OK;www.comcast.com;2;96.120.104.177;9757
+MTR.0.85;1467352141;OK;www.comcast.com;3;68.87.130.233;23660
+MTR.0.85;1467352141;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);9962
+MTR.0.85;1467352141;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14685
+MTR.0.85;1467352141;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18045
+MTR.0.85;1467352141;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17478
+MTR.0.85;1467352141;OK;www.comcast.com;8;68.87.29.59;16891
+MTR.0.85;1467352201;OK;www.comcast.com;1;192.168.10.1;774
+MTR.0.85;1467352201;OK;www.comcast.com;2;96.120.104.177;9261
+MTR.0.85;1467352201;OK;www.comcast.com;3;68.87.130.233;9984
+MTR.0.85;1467352201;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10695
+MTR.0.85;1467352201;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12742
+MTR.0.85;1467352201;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18756
+MTR.0.85;1467352201;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18351
+MTR.0.85;1467352201;OK;www.comcast.com;8;68.87.29.59;16484
+MTR.0.85;1467352262;OK;www.comcast.com;1;192.168.10.1;773
+MTR.0.85;1467352262;OK;www.comcast.com;2;96.120.104.177;8647
+MTR.0.85;1467352262;OK;www.comcast.com;3;68.87.130.233;9363
+MTR.0.85;1467352262;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10110
+MTR.0.85;1467352262;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14789
+MTR.0.85;1467352262;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18146
+MTR.0.85;1467352262;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16262
+MTR.0.85;1467352262;OK;www.comcast.com;8;68.87.29.59;15734
+MTR.0.85;1467352322;OK;www.comcast.com;1;192.168.10.1;1764
+MTR.0.85;1467352322;OK;www.comcast.com;2;96.120.104.177;9910
+MTR.0.85;1467352322;OK;www.comcast.com;3;68.87.130.233;8657
+MTR.0.85;1467352322;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);9641
+MTR.0.85;1467352322;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);15614
+MTR.0.85;1467352322;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);21603
+MTR.0.85;1467352322;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17150
+MTR.0.85;1467352322;OK;www.comcast.com;8;68.87.29.59;15264
+MTR.0.85;1467352381;OK;www.comcast.com;1;192.168.10.1;1601
+MTR.0.85;1467352381;OK;www.comcast.com;2;96.120.104.177;8543
+MTR.0.85;1467352381;OK;www.comcast.com;3;68.87.130.233;9309
+MTR.0.85;1467352381;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11422
+MTR.0.85;1467352381;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12116
+MTR.0.85;1467352381;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20764
+MTR.0.85;1467352381;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16330
+MTR.0.85;1467352381;OK;www.comcast.com;8;68.87.29.59;17104
+MTR.0.85;1467352441;OK;www.comcast.com;1;192.168.10.1;935
+MTR.0.85;1467352441;OK;www.comcast.com;2;96.120.104.177;11600
+MTR.0.85;1467352441;OK;www.comcast.com;3;68.87.130.233;11040
+MTR.0.85;1467352441;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10444
+MTR.0.85;1467352441;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12499
+MTR.0.85;1467352441;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17203
+MTR.0.85;1467352441;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16689
+MTR.0.85;1467352441;OK;www.comcast.com;8;68.87.29.59;16133
+MTR.0.85;1467352501;OK;www.comcast.com;1;192.168.10.1;1847
+MTR.0.85;1467352501;OK;www.comcast.com;2;96.120.104.177;9916
+MTR.0.85;1467352501;OK;www.comcast.com;3;68.87.130.233;10689
+MTR.0.85;1467352501;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10118
+MTR.0.85;1467352501;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13517
+MTR.0.85;1467352501;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16869
+MTR.0.85;1467352501;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16284
+MTR.0.85;1467352501;OK;www.comcast.com;8;68.87.29.59;17021
+MTR.0.85;1467352561;OK;www.comcast.com;1;192.168.10.1;1518
+MTR.0.85;1467352561;OK;www.comcast.com;2;96.120.104.177;9712
+MTR.0.85;1467352561;OK;www.comcast.com;3;68.87.130.233;10467
+MTR.0.85;1467352561;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);9928
+MTR.0.85;1467352561;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14602
+MTR.0.85;1467352561;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19301
+MTR.0.85;1467352561;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17451
+MTR.0.85;1467352561;OK;www.comcast.com;8;68.87.29.59;16812
+MTR.0.85;1467352621;OK;www.comcast.com;1;192.168.10.1;929
+MTR.0.85;1467352621;OK;www.comcast.com;2;96.120.104.177;10341
+MTR.0.85;1467352621;OK;www.comcast.com;3;68.87.130.233;9753
+MTR.0.85;1467352621;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10506
+MTR.0.85;1467352621;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12584
+MTR.0.85;1467352621;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);20066
+MTR.0.85;1467352621;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);15611
+MTR.0.85;1467352621;OK;www.comcast.com;8;68.87.29.59;16319
+MTR.0.85;1467352682;OK;www.comcast.com;1;192.168.10.1;2070
+MTR.0.85;1467352682;OK;www.comcast.com;2;96.120.104.177;11539
+MTR.0.85;1467352682;OK;www.comcast.com;3;68.87.130.233;9295
+MTR.0.85;1467352682;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10305
+MTR.0.85;1467352682;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14961
+MTR.0.85;1467352682;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);19642
+MTR.0.85;1467352682;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16478
+MTR.0.85;1467352682;OK;www.comcast.com;8;68.87.29.59;16001
+MTR.0.85;1467352741;OK;www.comcast.com;1;192.168.10.1;2018
+MTR.0.85;1467352741;OK;www.comcast.com;2;96.120.104.177;9351
+MTR.0.85;1467352741;OK;www.comcast.com;3;68.87.130.233;10110
+MTR.0.85;1467352741;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10851
+MTR.0.85;1467352741;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12935
+MTR.0.85;1467352741;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16263
+MTR.0.85;1467352741;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);15717
+MTR.0.85;1467352741;OK;www.comcast.com;8;68.87.29.59;16492
+MTR.0.85;1467352801;OK;www.comcast.com;1;192.168.10.1;1374
+MTR.0.85;1467352801;OK;www.comcast.com;2;96.120.104.177;9454
+MTR.0.85;1467352801;OK;www.comcast.com;3;68.87.130.233;10174
+MTR.0.85;1467352801;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10918
+MTR.0.85;1467352801;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);14344
+MTR.0.85;1467352801;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16372
+MTR.0.85;1467352801;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17121
+MTR.0.85;1467352801;OK;www.comcast.com;8;68.87.29.59;16550
+MTR.0.85;1467352861;OK;www.comcast.com;1;192.168.10.1;776
+MTR.0.85;1467352861;OK;www.comcast.com;2;96.120.104.177;10057
+MTR.0.85;1467352861;OK;www.comcast.com;3;68.87.130.233;18667
+MTR.0.85;1467352861;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10225
+MTR.0.85;1467352861;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);13715
+MTR.0.85;1467352861;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);18379
+MTR.0.85;1467352861;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);16489
+MTR.0.85;1467352861;OK;www.comcast.com;8;68.87.29.59;17229
+MTR.0.85;1467352922;OK;www.comcast.com;1;192.168.10.1;1608
+MTR.0.85;1467352922;OK;www.comcast.com;2;96.120.104.177;10805
+MTR.0.85;1467352922;OK;www.comcast.com;3;68.87.130.233;15405
+MTR.0.85;1467352922;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);10915
+MTR.0.85;1467352922;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12936
+MTR.0.85;1467352922;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);17654
+MTR.0.85;1467352922;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);18399
+MTR.0.85;1467352922;OK;www.comcast.com;8;68.87.29.59;15193
+MTR.0.85;1467352981;OK;www.comcast.com;1;192.168.10.1;1391
+MTR.0.85;1467352981;OK;www.comcast.com;2;96.120.104.177;10757
+MTR.0.85;1467352981;OK;www.comcast.com;3;68.87.130.233;10197
+MTR.0.85;1467352981;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);13549
+MTR.0.85;1467352981;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);12969
+MTR.0.85;1467352981;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16363
+MTR.0.85;1467352981;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17069
+MTR.0.85;1467352981;OK;www.comcast.com;8;68.87.29.59;15176
+MTR.0.85;1467353041;OK;www.comcast.com;1;192.168.10.1;1537
+MTR.0.85;1467353041;OK;www.comcast.com;2;96.120.104.177;9630
+MTR.0.85;1467353041;OK;www.comcast.com;3;68.87.130.233;9083
+MTR.0.85;1467353041;OK;www.comcast.com;4;ae-53-0-ar01.capitolhghts.md.bad.comcast.net (68.86.204.217);11105
+MTR.0.85;1467353041;OK;www.comcast.com;5;be-33657-cr02.ashburn.va.ibone.comcast.net (68.86.90.57);11912
+MTR.0.85;1467353041;OK;www.comcast.com;6;he-0-2-0-0-ar01-d.westchester.pa.bo.comcast.net (68.86.94.226);16592
+MTR.0.85;1467353041;OK;www.comcast.com;7;bu-101-ur21-d.westchester.pa.bo.comcast.net (68.85.137.213);17346
+MTR.0.85;1467353041;OK;www.comcast.com;8;68.87.29.59;16776
