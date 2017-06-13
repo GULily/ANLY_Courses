@@ -1,0 +1,15 @@
+rows: [Row(count(1)=1000000)]                                                   
+total_rows-query: select count(*) from quazyilx
+total_rows: [Row(count(1)=1000000)]
+total_errors-query: SELECT count(*) FROM quazyilx WHERE fnard == -1 AND fnok == -1 AND cark == -1 AND gnuck == -1
+total_errors: [Row(count(1)=3)]                                                 
+one_error_others_gt5-query: SELECT count(*) FROM quazyilx WHERE fnard == -1 AND fnok>5 AND cark>5
+one_error_others_gt5: [Row(count(1)=21141)]
+first_date-query: SELECT FIRST(datetime) FROM quazyilx
+first_date: [Row(first(datetime, false)='2000-01-01T00:00:03')]
+last_date-query: SELECT LAST(datetime) FROM quazyilx
+last_date: [Row(last(datetime, false)='2000-03-04T14:51:25')]
+first_error_date-query: SELECT FIRST(datetime) FROM quazyilx WHERE fnard == -1 AND fnok == -1 AND cark == -1 AND gnuck == -1
+first_error_date: [Row(first(datetime, false)='2000-01-28T03:07:44')]
+last_error_date-query: SELECT LAST(datetime) FROM quazyilx WHERE fnard == -1 AND fnok == -1 AND cark == -1 AND gnuck == -1
+last_error_date: [Row(last(datetime, false)='2000-03-01T17:31:22')]

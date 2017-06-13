@@ -1,0 +1,6 @@
+Q: Which is more efficient: top1m.collect()[0:50] or top1m.take(50)? Why? 
+-----------------
+
+top1m.take(50) is more efficient. Becuase collect() action collect all elements of RDD and send it to master.
+If we use it on the big dataset, sometimes it might be give out of memory.
+So filter the data before use collect() or use take and sampleTake action.
