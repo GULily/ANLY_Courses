@@ -1,0 +1,34 @@
+company_name,company_id,value_million,group,text
+Facebook,0,1490.47,Facebook,Facebook
+Apple,1,2234,Apple,Apple
+Amazon,2,3332.5,Amazon,Amazon
+FriendFeed,3,47.5,Facebook,FriendFeed  $47.5million
+Face.com,4,60,Facebook,Face.com  $60million
+Nextstop,5,2.5,Facebook,Nextstop  $2.5million
+Hot Potato,6,10,Facebook,Hot Potato  $10million
+Chai Labs,7,10,Facebook,Chai Labs  $10million
+Instagram,8,1010.47,Facebook,Instagram  $1010.47million
+Snaptu,9,60,Facebook,Snaptu  $60million
+Bolt | Peters,10,50,Facebook,Bolt | Peters  $50million
+Onavo,11,150,Facebook,Onavo  $150million
+Parse,12,90,Facebook,Parse  $90million
+Emagic,13,30,Apple,Emagic  $30million
+Lala,14,80,Apple,Lala  $80million
+Topsy Labs,15,200,Apple,Topsy Labs  $200million
+AuthenTec,16,356,Apple,AuthenTec  $356million
+Polar Rose,17,29,Apple,Polar Rose  $29million
+Intrinsity,18,121,Apple,Intrinsity  $121million
+Anobit Technologies,19,450,Apple,Anobit Technologies  $450million
+PrimeSense,20,345,Apple,PrimeSense  $345million
+Cue,21,50,Apple,Cue  $50million
+PA Semi,22,278,Apple,PA Semi  $278million
+Quattro Wireless,23,275,Apple,Quattro Wireless  $275million
+WiFiSLAM,24,20,Apple,WiFiSLAM  $20million
+Kiva Systems,25,775,Amazon,Kiva Systems  $775million
+Goodreads,26,150,Amazon,Goodreads  $150million
+Woot,27,110,Amazon,Woot  $110million
+Alexa,28,250,Amazon,Alexa  $250million
+LOVEFiLM,29,2.5,Amazon,LOVEFiLM  $2.5million
+Quidsi,30,545,Amazon,Quidsi  $545million
+Zappos,31,1200,Amazon,Zappos  $1200million
+Audible,32,300,Amazon,Audible  $300million

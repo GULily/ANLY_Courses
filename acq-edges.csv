@@ -1,0 +1,31 @@
+acquiring_name,acquiring_id,acquired_name,acquired_id,price_million,acquired_at
+Facebook,0,FriendFeed,3,47.5,8/10/09
+Facebook,0,Face.com,4,60,6/18/12
+Facebook,0,Nextstop,5,2.5,9/25/10
+Facebook,0,Hot Potato,6,10,7/28/10
+Facebook,0,Chai Labs,7,10,8/15/10
+Facebook,0,Instagram,8,1010.47,4/9/12
+Facebook,0,Snaptu,9,60,9/17/11
+Facebook,0,Bolt | Peters,10,50,6/21/12
+Facebook,0,Onavo,11,150,10/14/13
+Facebook,0,Parse,12,90,4/25/13
+Apple,1,Emagic,13,30,7/1/02
+Apple,1,Lala,14,80,12/5/09
+Apple,1,Topsy Labs,15,200,12/2/13
+Apple,1,AuthenTec,16,356,7/27/12
+Apple,1,Polar Rose,17,29,9/20/10
+Apple,1,Intrinsity,18,121,4/27/10
+Apple,1,Anobit Technologies,19,450,12/13/11
+Apple,1,PrimeSense,20,345,7/18/13
+Apple,1,Cue,21,50,10/4/13
+Apple,1,PA Semi,22,278,4/23/08
+Apple,1,Quattro Wireless,23,275,1/5/10
+Apple,1,WiFiSLAM,24,20,3/24/13
+Amazon,2,Kiva Systems,25,775,3/19/12
+Amazon,2,Goodreads,26,150,3/29/13
+Amazon,2,Woot,27,110,6/30/10
+Amazon,2,Alexa,28,250,5/1/99
+Amazon,2,LOVEFiLM,29,2.5,6/15/12
+Amazon,2,Quidsi,30,545,11/8/10
+Amazon,2,Zappos,31,1200,7/22/09
+Amazon,2,Audible,32,300,1/31/08

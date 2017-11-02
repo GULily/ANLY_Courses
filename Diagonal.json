@@ -1,0 +1,42 @@
+{
+ "name": "data science",
+ "children": [
+  {
+   "name": "machine learning",
+   "children": [
+    {
+     "name": "clustering",
+     "children": [
+      {"name": "k-means", "size": 3938},
+      {"name": "hierarchical clustering", "size": 3812},
+      {"name": "DBSCAN (density-based)", "size": 6714}
+     ]
+    },
+    {
+     "name": "classification",
+     "children": [
+      {"name": "svm", "size": 3534},
+      {"name": "decision trees", "size": 5731},
+      {"name": "random forests", "size": 7840},
+      {"name": "boosting", "size": 5914},
+      {"name": "regression", "size": 3416}
+     ]
+    },
+    {
+     "name": "others",
+     "children": [
+      {"name": "others", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "neuron networks",
+   "children": [
+    {"name": "RNN", "size": 17010},
+    {"name": "CNN", "size": 5842},
+    {"name": "LSTM", "size": 1041}
+   ]
+  }
+ ]
+}
